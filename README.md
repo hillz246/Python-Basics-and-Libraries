@@ -8,7 +8,6 @@ ROOT/
 ├── iris_plant_analysis.ipynb                      # Explores, cleans, and inserts the data into a csv (NumPy, Pandas) 
 ├── iris_plant_visualization.ipynb                 # Visualization - bar chart, scatter plot, and histogram (Matplotlib, Seaborn)
 ├── iris_plant_machine_learning_colab              # a basic machine learning model (linear regression) created on google colab - csv file converted to url         
-                                                                                                 ("https://raw.githubusercontent.com/hillz246/Iris_plant_dataset_url/refs/heads/main/iris_plant_dataset.csv")
 ├── iris_plant_sql_schema.sql                      # SQL queries to extract, manipulate, and analyze data from a database
 ├── iris_plant_machine_learning_colab              # a basic machine learning model (linear regression)
 
