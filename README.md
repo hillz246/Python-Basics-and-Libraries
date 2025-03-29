@@ -1,14 +1,29 @@
 # Python-Basics-and-Libraries
-Module 1: Python Basics and Libraries (NumPy, Pandas) 
 
-1. Module 1: Python Basics and Libraries (NumPy, Pandas)  
-○ Task 1: Complete basic exercises in Python and work with NumPy and Pandas  
-to load, manipulate, and analyze data.  
-■ Deliverables: A Python script that loads a dataset, performs data  
-cleaning (e.g., removing missing values), and generates basic statistical  
-summaries.  
-○ Commit Frequency: At least 3 commits throughout the module.
+IRIS DATASET - https://archive.ics.uci.edu/dataset/53/iris
 
-Personal Fitness Analyst: Research whether working out helps a person become more active overall. Use data collected by the Samsung Health applicationLinks to an external site. to uncover relevant trends. What do the results tell you about individuals using this app? Have their lifestyles become more active? Less? Remained the same?
+Poject Structure
 
-https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends
+ROOT/
+├── iris_plant_analysis.ipynb                      # Explores, cleans, and inserts the data into a csv (NumPy, Pandas) 
+├── iris_plant_visualization.ipynb                 # Visualization - bar chart, scatter plot, and histogram (Matplotlib, Seaborn)
+├── iris_plant_machine_learning_colab              # a basic machine learning model (linear regression) created on google colab - csv file converted to url         
+                                                                                                 ("https://raw.githubusercontent.com/hillz246/Iris_plant_dataset_url/refs/heads/main/iris_plant_dataset.csv")
+├── iris_plant_sql_schema.sql                      # SQL queries to extract, manipulate, and analyze data from a database
+├── iris_plant_machine_learning_colab              # a basic machine learning model (linear regression)
+
+
+├── clean data/
+│   ├── iris_plant_dataset.csv                     # The CSV file was created from the website's download link.
+│   ├── 
+
+├── resources/
+│   ├── iris                                      # data from website's download link
+│   └── 
+
+├── results/
+│   └── png and sql                             # snips from visualization and sql analysis
+
+
+
+
