@@ -14,11 +14,11 @@ ROOT/
 
 ├── clean data/
 │   ├── iris_plant_dataset.csv                     # The CSV file was created from the website's download link.
-│   ├── 
+
 
 ├── resources/
 │   ├── iris                                      # data from website's download link
-│   └── 
+
 
 ├── results/
 │   └── png and sql                             # snips from visualization and sql analysis
